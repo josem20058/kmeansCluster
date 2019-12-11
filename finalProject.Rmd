@@ -1,5 +1,5 @@
 ---
-title: "Final Project"
+title: "Final Project Jose Muralles"
 author: "Emporer James I"
 date: "11/15/2019"
 output: 
@@ -238,4 +238,3 @@ print(unique(unkDataFrame[sortSaveTrans$ix[1:50],]$ID))
 ```{r}
 hist(saveTrans[sortSaveTrans$ix[1:50],2], main="dist to fraud", xlab='dist', freq=FALSE)
 ```
-
